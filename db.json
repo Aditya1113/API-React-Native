@@ -1,11 +1,12 @@
 {
   "users": [
     {
+       "id": 1,
       "name": "admin",
       "email": "root@admin.com",
       "password": "admin123",
-      "role": "admin",
-      "id": 1
+      "role": "admin"
+     
     },
     {
       "id": 2,
@@ -201,39 +202,39 @@
       "id": 1,
       "title": "Flutter",
       "body": "A new mobile app development framework from Google.",
-      "latest": false,
-      "oldest": true,
+      "latest": true,
+      "oldest": false,
       "liked": false,
-      "disliked": true
+      "disliked": false
     },
     {
       "userId": 1,
       "id": 2,
       "title": "React",
       "body": "React Js",
-      "latest": false,
-      "oldest": true,
+     "latest": true,
+      "oldest": false,
       "liked": false,
-      "disliked": true
+      "disliked": false
     },
     {
       "userId": 1,
       "id": 3,
       "title": "Google",
       "body": "USA",
-      "latest": false,
-      "oldest": true,
+      "latest": true,
+      "oldest": false,
       "liked": false,
-      "disliked": true
+      "disliked": false
     },
     {
       "userId": 1,
       "id": 4,
       "title": "React Native",
       "body": "Cross Platform",
-      "latest": false,
-      "oldest": true,
-      "liked": true,
+     "latest": true,
+      "oldest": false,
+      "liked": false,
       "disliked": false
     },
     {
@@ -241,28 +242,29 @@
       "id": 5,
       "title": "Angular",
       "body": "A framework from Google.",
-      "latest": false,
-      "oldest": true,
-      "liked": true,
+     "latest": true,
+      "oldest": false,
+      "liked": false,
       "disliked": false
     },
     {
-      "latest": false,
-      "oldest": true,
-      "liked": true,
-      "disliked": false,
+      "id": 6,
       "title": "Swift",
       "body": "Version 6",
-      "id": 6
-    },
-    {
       "latest": true,
       "oldest": false,
       "liked": false,
-      "disliked": false,
+      "disliked": false
+  
+    },
+    {
+      "id": 7,
       "title": "React version 16",
       "body": "react",
-      "id": 7
+      "latest": true,
+      "oldest": false,
+      "liked": false,
+      "disliked": false   
     }
   ]
 }
