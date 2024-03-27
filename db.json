@@ -630,14 +630,14 @@
       "description": "Transfer the monthly rent payment to the landlord's account."
     },
     {
+      "id": "0b0a5fe4-ae4f-4338-8f8b-2cd05e7ac042",
+      "title": "Finish Reading Book",
+      "description": "Complete the last two chapters of 'The Great Gatsby'."
+    },
+    {
       "id": "19683f68-0187-4540-ba53-84860a028029",
       "title": "Schedule Dentist Appointment",
       "description": "Call the dentist's office and book an appointment for next week."
-    },
-    {
-      "id": "90f307c4-48d3-4979-97d0-5906eb992b85",
-      "title": "Research Vacation Destinations",
-      "description": "Spend some time researching potential vacation spots for the upcoming holiday."
-    },
+    }
   ]
 }
