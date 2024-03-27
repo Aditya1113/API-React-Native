@@ -612,5 +612,58 @@
         "https://i.dummyjson.com/data/products/30/thumbnail.jpg"
       ]
     }
+  ],
+  "notes":[
+    {
+      "id": 1,
+      "title": "Complete Project Proposal",
+      "description": "Finish writing and formatting the project proposal document for submission."
+    },
+    {
+      "id": 2,
+      "title": "Buy Groceries",
+      "description": "Get eggs, milk, bread, and vegetables from the grocery store."
+    },
+    {
+      "id": 3,
+      "title": "Call Mom",
+      "description": "Catch up with mom, wish her well, and ask about her health."
+    },
+    {
+      "id": 4,
+      "title": "Pay Rent",
+      "description": "Transfer the monthly rent payment to the landlord's account."
+    },
+    {
+      "id": 5,
+      "title": "Finish Reading Book",
+      "description": "Complete the last two chapters of 'The Great Gatsby'."
+    },
+    {
+      "id": 6,
+      "title": "Schedule Dentist Appointment",
+      "description": "Call the dentist's office and book an appointment for next week."
+    },
+    {
+      "id": 7,
+      "title": "Write Thank You Email",
+      "description": "Compose and send a thank you email to the team for their hard work on the project."
+    },
+    {
+      "id": 8,
+      "title": "Exercise",
+      "description": "Go for a 30-minute jog around the park."
+    },
+    {
+      "id": 9,
+      "title": "Research Vacation Destinations",
+      "description": "Spend some time researching potential vacation spots for the upcoming holiday."
+    },
+    {
+      "id": 10,
+      "title": "Update Resume",
+      "description": "Add recent achievements and experiences to the resume."
+    }
   ]
+  
 }
